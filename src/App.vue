@@ -212,7 +212,7 @@ export default {
           name: 'James Phinney',
           title: 'Design',
           socials: [
-            {type: 'linkedIn', link: "https://www.linkedin.com/"}
+            {type: 'linkedIn', link: "https://www.linkedin.com/in/jamesphinney/"}
           ],
           games: 'Warcraft 2, Diablo, Starcraft, wSacrifice  a, Guild Wars 1, Guildwars 2, Gigantic, State of Decay',
           img: 'james.jpg',
@@ -222,7 +222,7 @@ export default {
           name: 'Joe Pikop',
           title: 'Art',
           socials: [
-            {type: 'linkedIn', link: "https://www.linkedin.com/"}
+            {type: 'linkedIn', link: "https://www.linkedin.com/in/josephpikop/"}
           ],
           games: 'D&D Online, Empire Earth 3, Bully: SE, Guild Wars 2, Gigantic',
           img: 'joe.jpg',
@@ -232,7 +232,7 @@ export default {
           name: 'Mark Pottorf',
           title: 'Engineering',
           socials: [
-            {type: 'linkedIn', link: "https://www.linkedin.com/"}
+            {type: 'linkedIn', link: "https://www.linkedin.com/in/mark-pottorf-41008a2/"}
           ],
           games: 'H1Z1, Golem,Quantum Conundrum, Dark Void and Gigantic',
           img: 'mark.jpeg',
