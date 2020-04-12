@@ -20,7 +20,7 @@
           <h2>Some Header.</h2>
         </div> -->
       <div id="imagination" class="block" style="padding-top: 5vw;">
-        <p class="cta_copy" id="test">Lorem ipsum dolor sit amet, consectetur adipising. We are a team of <llink :href="'#team'">experienced developers</llink> Quisque congue ut leo quis vulputate. Sed convallis orci id pharetra luctus. With a proven track record of creating <llink :href="'#experience'">legendary experiences</llink> Curabitur consectetur tincidunt sapien non egestas. In ullamcorper lectus non nisl commodo, in ullamcorper arcu rutrum imagination. Etiam mattis ullamcorper dui. Aliquam erat volutpat, lorem <llink :href="'#contact'">contact us</llink> oCras condimentum velit eget dui.</p>
+        <p class="cta_copy" id="test">Lorem ipsum dolor sit amet, consectetur adipising. We are a <llink :href="'#team'">team of experienced developers</llink> Quisque congue ut leo quis vulputate. Sed convallis orci id pharetra luctus. With a proven track record of <llink :href="'#experience'">creating legendary experiences</llink> Curabitur consectetur tincidunt sapien non egestas. In ullamcorper lectus non nisl commodo, in ullamcorper arcu rutrum imagination. Etiam mattis ullamcorper dui. Aliquam erat volutpat, lorem <llink :href="'#contact'">contact us</llink> oCras condimentum velit eget dui.</p>
       </div>
 
       <!-- Team section -->
@@ -36,7 +36,7 @@
       <!-- Experience -->
       <div id="experience" class="block content">
         <div class="innercont">
-          <h2>A track record of creating legendary experiences.</h2>
+          <h2>Track record of creating legendary experiences.</h2>
         </div>
         <div class="innercont">
           <llprofile v-for="(g, k) in experiences" :key="k" :profile="g" :game="true" :bgpos="g.bgPos" />
